@@ -1,2 +1,2 @@
-# website_checker.py
+# website_checker
 requests>=2.25.1
